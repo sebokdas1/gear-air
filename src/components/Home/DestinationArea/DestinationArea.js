@@ -1,11 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import './DestinationArea.css';
+import React from "react";
+import { Link } from "react-router-dom";
+import "./DestinationArea.css";
 
 const DestinationArea = () => {
   return (
-    <div className="destination-area destination-bg my-24 py-20">
-      <div className="mx-auto container space-y-5">
+    <div className="destination-area destination-bg my-24 py-20 ">
+      <div className="mx-auto container space-y-5 px-4">
         <span className="ml-2 text-white bg-amber-500 uppercase rounded-full tracking-widest py-1 px-2">
           Offer Deals
         </span>
@@ -14,12 +14,12 @@ const DestinationArea = () => {
         </h2>
         {/* destination content */}
         <p className="text-slate-300 text-start">
-          Get rewarded for your travels – unlock instant savings of 10% <br />{' '}
-          or more with a free{' '}
+          Get rewarded for your travels – unlock instant savings of 10% <br />{" "}
+          or more with a free{" "}
           <span className="text-amber-400">Geairinfo.com</span> account
         </p>
         <div className="space-y-3 md:space-y-0 md:flex">
-          <div className="bg-white rounded-lg w-80">
+          <div className="bg-white rounded-lg  w-50 md:w-80 lg:w-80 ">
             <div className="p-4 flex justify-between">
               <div>
                 <p className="text-3xl font-bold text-black">5830+</p>
@@ -28,7 +28,7 @@ const DestinationArea = () => {
               <i class="fa-solid fa-user-group text-rose-900 text-5xl"></i>
             </div>
           </div>
-          <div className="bg-white rounded-lg w-80  md:ml-3">
+          <div className="bg-white rounded-lg  w-50 md:w-80 lg:w-80   md:ml-3">
             <div className="p-4 flex justify-between">
               <div>
                 <p className="text-3xl font-bold text-black">100%</p>
@@ -43,7 +43,10 @@ const DestinationArea = () => {
             Discover the latest offers & news and start planning
           </span>
           <span>
-            <Link to='/contact' className="ml-2 text-white bg-amber-500 uppercase rounded-full tracking-widest py-1 px-2">
+            <Link
+              to="/contact"
+              className="ml-2 text-white bg-amber-500 uppercase rounded-full tracking-widest py-1 px-2"
+            >
               Contact us
             </Link>
           </span>
