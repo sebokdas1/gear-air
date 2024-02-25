@@ -1,0 +1,13 @@
+.meal_select select {
+    border: 1px solid #6a2e4d;
+}
+
+.quick__pick input {
+    width: 20px;
+}
+
+@media only screen and (min-width:1000px) {
+    .mr_selction select {
+        width: 120px;
+    }
+}

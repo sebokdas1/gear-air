@@ -1,0 +1,37 @@
+.contact__form input,
+.coupon_code input,
+.contact__form textarea,
+.contact__form select {
+    background: transparent;
+    border: 1px solid #e1e1e1;
+    width: 100%;
+    border-radius: 5px;
+    padding: 18px 20px;
+    color: #6a2e4d;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.contact__form textarea {
+    height: 150px;
+}
+
+.contact__form input:focus,
+.coupon_code input:focus,
+.contact__form select:focus,
+.contact__form textarea:focus {
+    outline: none;
+}
+
+.contact__form input::placeholder,
+.coupon_code input::placeholder,
+.contact__form select::placeholder,
+.contact__form textarea::placeholder {
+    color: #874f53;
+}
+
+.contact_submitBTN input {
+    width: auto;
+    background: #ffa902;
+    cursor: pointer;
+}

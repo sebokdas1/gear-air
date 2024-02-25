@@ -1,0 +1,9 @@
+{
+    "airlineLogo": "https://i.ibb.co/5YZz8nx/sidebar-flight-icon.jpg",
+    "ticketPrice": 1056,
+    "tax": 3.34,
+    "from": "Dubai",
+    "to": "Istanbul",
+    "takeOff": "12:00",
+    "landing": "16:30"
+}

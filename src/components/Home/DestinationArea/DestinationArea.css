@@ -1,0 +1,7 @@
+.destination-bg {
+    background-image: url('../../../images/destination_bg.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+  }

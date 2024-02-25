@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Dubai (DXB)",
+    "to": "New York (USA)",
+    "Class": "Economy from",
+    "price": 195,
+    "icon": "https://i.ibb.co/TbhkZVV/fly-icon01.jpg",
+    "img": "https://i.ibb.co/Gs9dRNv/fly-img01.jpg"
+  },
+  {
+    "id": 2,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Switzerland (SWL)",
+    "to": "New York (USA)",
+    "Class": "Business Class",
+    "price": 800,
+    "icon": "https://i.ibb.co/rwRT5Zg/fly-icon02.jpg",
+    "img": "https://i.ibb.co/Zxx49jY/fly-img02.jpg"
+  },
+  {
+    "id": 3,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Denmark (DEK)",
+    "to": "New York (USA)",
+    "Class": "Economy from",
+    "price": 350,
+    "icon": "https://i.ibb.co/ZH1JG1v/fly-icon03.jpg",
+    "img": "https://i.ibb.co/mhrS5WC/fly-img03.jpg"
+  },
+  {
+    "id": 4,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Jakarta (DXB)",
+    "to": "New York (USA)",
+    "Class": "Business Class",
+    "price": 220,
+    "icon": "https://i.ibb.co/TbhkZVV/fly-icon01.jpg",
+    "img": "https://i.ibb.co/YXFt3hp/fly-img04.jpg"
+  },
+  {
+    "id": 5,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Dubai (DXB)",
+    "to": "New York (USA)",
+    "Class": "Economy from",
+    "price": 195,
+    "icon": "https://i.ibb.co/ZH1JG1v/fly-icon03.jpg",
+    "img": "https://i.ibb.co/5hzPzvX/fly-img05.jpg"
+  },
+  {
+    "id": 6,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Dubai (DXB)",
+    "to": "New York (USA)",
+    "Class": "Business Class",
+    "price": 175,
+    "icon": "https://i.ibb.co/rwRT5Zg/fly-icon02.jpg",
+    "img": "https://i.ibb.co/ydh79qy/fly-img06.jpg"
+  },
+  {
+    "id": 7,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Switzerland (SWL)",
+    "to": "New York (USA)",
+    "Class": "Economy from",
+    "price": 195,
+    "icon": "https://i.ibb.co/TbhkZVV/fly-icon01.jpg",
+    "img": "https://i.ibb.co/Sn618cc/fly-img07.jpg"
+  },
+  {
+    "id": 8,
+    "startdate": "09 jun 2022",
+    "enddate": "16 jun 2022",
+    "from": "Turkish (SWL)",
+    "to": "New York (USA)",
+    "Class": "Business Class",
+    "price": 350,
+    "icon": "https://i.ibb.co/rwRT5Zg/fly-icon02.jpg",
+    "img": "https://i.ibb.co/Wf93Mx1/fly-img08.jpg"
+  }
+]

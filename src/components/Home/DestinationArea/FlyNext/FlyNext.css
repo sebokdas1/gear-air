@@ -1,0 +1,34 @@
+.tab-link {
+  border: none;
+  color: #606575;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 17px 28px 17px 48px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  border-radius: 3px;
+  box-shadow: 0px 1px 5px 0px rgb(139 139 139 / 14%);
+  position: relative;
+}
+
+.tab-link.active {
+  background-color: #e79b0a;
+  color: #1f1f1f;
+}
+
+.tab-item {
+  display: none;
+}
+
+.tab-item.active {
+  display: block;
+}
+.flyItem:hover .item_img {
+  transform: scale(1.1);
+}
+.content-bottom {
+  border-top: 1px solid #ded4d9;
+  padding-top: 15px;
+  margin-top: 20px;
+}
