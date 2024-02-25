@@ -6,7 +6,7 @@ import "./CustomarService.css";
 
 const CustomarService = () => {
   return (
-    <div className="lg:flex lg:gap-3 items-center justify-center">
+    <div className="md:flex md:gap-2 lg:flex lg:gap-3 items-center justify-center">
       <div className="flex gap-2 items-center bg-[#fff] p-[35px] lg:mb-[30px] customarService rounded-[15px]]">
         <div>
           {/* <img src={AiFillWechat} alt="" /> */}
