@@ -8,7 +8,7 @@ const Banner = () => {
     <div className="bannerSection flex items-center">
       {/* <img src={DestinationImg} alt="" /> */}
       <div className="px-6 md:px-12 lg:px-20">
-        <h1 className="text-white text-[44px]">
+        <h1 className="text-white text-[20px] lg:text-[44px] font-bold">
           A Lifetime of Discounts? It's Genius.
         </h1>
         <h6 className="text-[#eae8e8] text-[16px] mb-8">
