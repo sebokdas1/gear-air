@@ -13,7 +13,7 @@ const WhyUs = () => {
   const [nextEl, setNextEl] = useState(null);
 
   return (
-    <section className="bg-[#fbf9f2] py-24 px-6 md:px-10">
+    <section className="bg-[#fbf9f2] py-24 px-6 md:px-12 lg:px-12">
       <div className="max-w-[1250px] mx-auto __why_us">
         <div className="sm:flex sm:justify-between">
           <div>

@@ -1,0 +1,7 @@
+.bannerSection {
+  height: 100vh;
+  background-image: url("../../../images/destination_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: rgba(0, 128, 0, 0.527);
+  /* opacity: 0.7; */
+}

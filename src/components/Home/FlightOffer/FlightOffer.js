@@ -8,7 +8,7 @@ import { AiFillCheckCircle } from "react-icons/ai";
 
 const FlightOffer = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto lg:px-12">
       <div className="flex justify-center sm:justify-start">
         <span className=" uppercase text-sm text-amber-500">Offer deals</span>
       </div>

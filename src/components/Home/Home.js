@@ -6,11 +6,13 @@ import FlyNext from "./DestinationArea/FlyNext/FlyNext";
 import DestinationArea from "./DestinationArea/DestinationArea";
 import CustomarService from "./CustomarService/CustomarService";
 import Banner from "./Banner/Banner";
+import Menu from "./Menu/Menu";
 
 const Home = () => {
   return (
     <>
       <Banner />
+      {/* <Menu /> */}
       <CustomarService />
       <FlightOffer />
       <DestinationArea />
